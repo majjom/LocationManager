@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Exported from Strava"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+	http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+	xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>
+    	<link href="http://cosmocatalano.com/strava/export">
+      		<text>Strava GPX Exporter - Version 2</text>
+    	</link>
+    	<desc>Run description</desc>
+    	<time>2012-07-02T12:01:05Z</time>
+  	</metadata>
+    <trk>
+        <name>Run around the park</name>
+        <type>Endurance</type>
+        <trkseg>
+            <trkpt lon="35.042294" lat="48.465782">
+                <ele>56.656754</ele>
+                <time>2012-08-27T15:53:50Z</time>
+            </trkpt>
+            <trkpt lon="35.042294" lat="48.465782">
+                <ele>56.656754</ele>
+                <time>2012-08-27T15:53:51Z</time>
+            </trkpt>
+            <trkpt lon="35.042187" lat="48.465847">
+                <ele>77.222351</ele>
+                <time>2012-08-27T15:53:52Z</time>
+            </trkpt>
+            <trkpt lon="35.042061" lat="48.465904">
+                <ele>82.384605</ele>
+                <time>2012-08-27T15:53:53Z</time>
+            </trkpt>
+            <trkpt lon="35.041992" lat="48.465992">
+                <ele>78.597557</ele>
+                <time>2012-08-27T15:53:54Z</time>
+            </trkpt>
+        </trkseg>
+    </trk> <!-- Start Pause -->
+    <trk> <!-- Resume run -->
+        <trkseg>
+            <trkpt lon="35.043812" lat="48.465435">
+                <ele>56.712715</ele>
+                <time>2012-08-27T15:56:42Z</time>
+            </trkpt>
+            <trkpt lon="35.043976" lat="48.465317">
+                <ele>63.713676</ele>
+                <time>2012-08-27T15:57:34Z</time>
+            </trkpt>
+          <trkpt lon="35.044182" lat="48.465218">
+            <ele>62.611168</ele>
+            <time>2012-08-27T15:57:36Z</time>
+          </trkpt>
+          <trkpt lon="35.044296" lat="48.465157">
+            <ele>62.200455</ele>
+            <time>2012-08-27T15:57:37Z</time>
+          </trkpt>
+          <trkpt lon="35.044411" lat="48.465096">
+            <ele>60.864716</ele>
+            <time>2012-08-27T15:57:38Z</time>
+          </trkpt>
+          <trkpt lon="35.044529" lat="48.465027">
+            <ele>59.620110</ele>
+            <time>2012-08-27T15:57:39Z</time>
+          </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

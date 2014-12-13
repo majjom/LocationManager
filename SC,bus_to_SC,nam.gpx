@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="48.22158" lon="17.3964">
+  <name>48.2215921,17.3963927</name>
+</wpt>
+<wpt lat="48.22225" lon="17.40066">
+  <name>48.2222569,17.4006574</name>
+</wpt>
+<trk>
+  <name>SC, bus to SC,nam</name>
+  <trkseg>
+    <trkpt lat="48.22158" lon="17.3964"></trkpt>
+    <trkpt lat="48.22187" lon="17.39695"></trkpt>
+    <trkpt lat="48.22227" lon="17.39811"></trkpt>
+    <trkpt lat="48.22227" lon="17.39811"></trkpt>
+    <trkpt lat="48.22154" lon="17.39867"></trkpt>
+    <trkpt lat="48.22154" lon="17.39867"></trkpt>
+    <trkpt lat="48.22225" lon="17.40066"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
